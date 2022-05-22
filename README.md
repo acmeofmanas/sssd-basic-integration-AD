@@ -1,4 +1,5 @@
 # it's reference for basic sssd integration 
+ref: https://uit.stanford.edu/service/directory/pam-sssd
 assume you have sssd packages installed 
 
 below sssd config file: [sample sssd config file is attached in repo]
